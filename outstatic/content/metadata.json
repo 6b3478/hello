@@ -1,0 +1,24 @@
+{
+  "commit": "63fd37d4d4264e3b7f3f95aaae29f93f368e7f54",
+  "generated": "Wed, 05 Jun 2024 07:08:10 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "dcedf9d1ee072c24c5ae2653fe3277559d1000aa",
+        "hash": "2622948954",
+        "path": "outstatic/content/hello/hello.md"
+      },
+      "author": {
+        "name": "7777777777",
+        "picture": "https://avatars.githubusercontent.com/u/110736402?v=4"
+      },
+      "collection": "hello",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-05T06:35:39.495Z",
+      "slug": "hello",
+      "status": "published",
+      "title": "Hello"
+    }
+  ]
+}
